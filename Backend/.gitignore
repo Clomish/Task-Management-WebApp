@@ -1,0 +1,14 @@
+# Credentials and Secrets
+.env
+
+# Dependencies (This folder is huge; don't push it!)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
