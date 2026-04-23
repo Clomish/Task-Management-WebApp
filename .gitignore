@@ -1,0 +1,7 @@
+# Ignore all node_modules everywhere
+**/node_modules/
+.env
+.DS_Store
+# Ignore specific cache folders
+.cache/
+**/dist/
